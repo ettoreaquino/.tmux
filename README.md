@@ -4,4 +4,4 @@ Installation:
 
 Create symlink to the tmux.conf file within .tmux repository:
 
-    ln -s ~/.vim/tmux.com ~/.tmux.conf
+    ln -s ~/.vim/tmux.conf ~/.tmux.conf
